@@ -1,5 +1,9 @@
 # ComfyXP Changelog
 
+## 0.5 Beta – 28.09.2026
+- Registered ComfyXP in Blizzard's native AddOns settings list with a button to open the full Comfy settings window.
+
+
 ## 0.4 Beta – 27.09.2026
 - Added selectable XP display components.
 - Added above/inside/below information placement.
