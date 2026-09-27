@@ -1,5 +1,12 @@
 # ComfyXP Changelog
 
+## 0.4 Beta – 27.09.2026
+- Added selectable XP display components.
+- Added above/inside/below information placement.
+- Added idle/AFK/logout countdown to the XP bar.
+- Kept AFK time excluded from XP/hour and ETA.
+
+
 ## 0.3 Beta – 27.09.2026
 - Fixed jerky XP-bar dragging caused by the one-second refresh re-anchoring the frame.
 - Saved dragged positions relative to UIParent center for stable placement.
