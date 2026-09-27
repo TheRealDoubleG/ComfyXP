@@ -1,5 +1,11 @@
 # ComfyXP Changelog
 
+## 0.3 Beta – 27.09.2026
+- Fixed jerky XP-bar dragging caused by the one-second refresh re-anchoring the frame.
+- Saved dragged positions relative to UIParent center for stable placement.
+- Locked XP bars no longer capture mouse input.
+
+
 ## 0.2 Beta – 27.09.2026
 - Fixed Background opacity so 0% fully removes the Comfy window background while the border can remain.
 - Aligned the shared Load / copy control with its profile dropdown.
