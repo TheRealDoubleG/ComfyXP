@@ -1,6 +1,6 @@
 # ComfyXP
 
-**Version 0.2 – Beta**  
+**Version 0.3 – Beta**  
 **Target: World of Warcraft: Forever 1.60.1 / Interface 16001**  
 Author: **TheRealDoubleG**  
 Discord: **the.real.double.g**
@@ -10,6 +10,12 @@ XP progress, rested XP and session pace bar for WoW Forever.
 A focused leveling bar with rested XP and simple session analytics.
 
 ComfyXP is developed specifically for **WoW: Forever**. Retail/Modern WoW, Midnight and WoW Classic are not compatibility targets.
+
+## 0.3 Beta
+
+- Fixed XP-bar dragging so periodic refreshes no longer snap the frame back under the mouse.
+- Dragging now stores a stable center-relative position.
+- Lock state now disables mouse capture when the XP bar is locked.
 
 ## 0.1 Beta
 - Added movable XP progress bar with rested XP display.
