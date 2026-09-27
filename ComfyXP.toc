@@ -3,7 +3,7 @@
 ## Notes: XP progress, rested XP and session pace bar for WoW Forever.
 ## Notes-deDE: XP-Fortschritt, Erholungsbonus und Sitzungsrate für WoW Forever.
 ## Author: TheRealDoubleG
-## Version: 0.2
+## Version: 0.3
 ## SavedVariables: ComfyXPDB
 ## X-Website: https://github.com/TheRealDoubleG/ComfyXP
 ## X-ComfySuite: true
